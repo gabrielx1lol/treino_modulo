@@ -1,0 +1,14 @@
+Textos 
+1.00<span>: não fornece nenhuma estilização, mas é útil para quando temos que estilizar um pedaço de texto; 
+1.01 <p>: utilizada para construir parágrafos; 
+1.02 <b>: utilizada para aplicar negritoà um texto;
+1.03 <i>: utilizada para aplicar itálicoà um texto; 
+1.04 <mark>: utilizada para destacar um texto, como um marca-texto.
+1.05 <a>: utilizada para construir links, informamos para qual endereço o usuário será levado através do atributo href; 
+1.06<em>: utilizada para enfatizar um texto, também aplica o itálico; 
+1.07<strong>: utilizada para informar que um texto é importante, também aplica o negrito;
+1.08<del>: utilizada para informar que um texto foi deletado, aplica o tachadono texto; 
+1.09<small>: utilizada para criar um texto com fonte menor; 
+1.10<blockquote>: utilizada para inserir uma citação, aplica um margem no conteúdo; 
+1.11<address>: utilizada para inserir um endereço, também aplica o itálico;
+  
