@@ -5,10 +5,37 @@ Textos
 1.03 <i>: utilizada para aplicar itálicoà um texto; 
 1.04 <mark>: utilizada para destacar um texto, como um marca-texto.
 1.05 <a>: utilizada para construir links, informamos para qual endereço o usuário será levado através do atributo href; 
-1.06<em>: utilizada para enfatizar um texto, também aplica o itálico; 
-1.07<strong>: utilizada para informar que um texto é importante, também aplica o negrito;
-1.08<del>: utilizada para informar que um texto foi deletado, aplica o tachadono texto; 
-1.09<small>: utilizada para criar um texto com fonte menor; 
-1.10<blockquote>: utilizada para inserir uma citação, aplica um margem no conteúdo; 
-1.11<address>: utilizada para inserir um endereço, também aplica o itálico;
+1.06 <em>: utilizada para enfatizar um texto, também aplica o itálico; 
+1.07 <strong>: utilizada para informar que um texto é importante, também aplica o negrito;
+1.08 <del>: utilizada para informar que um texto foi deletado, aplica o tachadono texto; 
+1.09 <small>: utilizada para criar um texto com fonte menor; 
+1.10 <blockquote>: utilizada para inserir uma citação, aplica um margem no conteúdo; 
+1.11 <address>: utilizada para inserir um endereço, também aplica o itálico;
+Containers
+1.12 <header>: utilizada para criar um cabeçalho; 
+1.13 <footer>: utilizada para criar um rodapé; 
+1.14 <main>: utilizada para conter o conteúdo principal da página; 
+1.15 <aside>: utilizada para construir barras laterais;  
+1.16 <section>:utilizada para dividir o conteúdo em seções;
+1.17 <article>: utilizada para criar artigos, posts; 
+1.18 <nav>: utilizada para criar menus de navegação.
+Tabelas
+1.19 <table>: é o container da tabela; 
+1.20 <thead>: utilizada para construir o cabeçalho da tabela; 
+1.21 <tbody>: utilizada para construir o corpo, conteúdo, da tabela; 
+1.22 <tfoot>: utilizada para construir o rodapé da tabela.
+1.23 <tr>: utilizada para construir uma linha na tabela; 
+1.24 <td>: utilizada para construir uma coluna na tabela; 
+1.25 <th>: utilizada para construir uma coluna no cabeçalho da tabela; 
+1.26 <caption>: utilizada para inserir uma legenda para a tabela;
+Formulario
+1.27 <form>: container do formulário, todos os campos e botões deverão estar dentro desta tag; 
+1,28 <input>: para inserir um campo; 
+1.29 <select>: para criar uma lista de opções, uma caixa de seleção; 
+1.30 <button>: para inserir botões;
+Miltimidia
+1.31 <audio>: utilizada para inserir um áudio na página; 
+1.32 <video>: utilizada para inserir um vídeo na página; 
+1.33 <img>: utilizada para inserir uma imagem na página;
+
   
